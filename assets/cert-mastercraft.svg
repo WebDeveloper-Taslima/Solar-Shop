@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 68" width="100%" height="100%">
+  <!-- Mastercraft Electrical Logo Badge -->
+  <g transform="translate(6, 18)">
+    <text x="0" y="16" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="17" fill="#002B49" letter-spacing="-0.01em">MASTERCRAFT</text>
+    <!-- Dynamic Blue & Green Wave Swoosh -->
+    <path d="M152,4 C162,2 170,14 184,8 C175,18 165,12 152,4 Z" fill="#0077C8"/>
+    <path d="M172,9 C182,7 192,13 205,8 C196,16 186,13 172,9 Z" fill="#46A038"/>
+    <!-- Subtitle ELECTRICAL -->
+    <text x="0" y="32" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="9" fill="#46A038" letter-spacing="3.5">ELECTRICAL</text>
+  </g>
+</svg>
