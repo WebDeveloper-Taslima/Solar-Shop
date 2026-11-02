@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 68" width="100%" height="100%">
+  <!-- Master Electricians NZ Logo Badge -->
+  <g transform="translate(4, 8)">
+    <!-- Yellow Shield / Corner -->
+    <rect x="0" y="0" width="50" height="50" rx="4" fill="#FBBF24"/>
+    <path d="M0,0 L50,0 L0,50 Z" fill="#0F172A"/>
+    <!-- Yellow Triangle accent -->
+    <polygon points="0,50 50,50 50,25" fill="#F59E0B"/>
+    <!-- Crisp White/Navy Checkmark -->
+    <path d="M12,24 L22,34 L40,14" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(64, 20)">
+    <line x1="0" y1="-4" x2="165" y2="-4" stroke="#0F172A" stroke-width="1.5"/>
+    <text x="0" y="14" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="16" fill="#0F172A" letter-spacing="1">MASTER</text>
+    <text x="0" y="30" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="14.5" fill="#0F172A" letter-spacing="0.5">ELECTRICIANS</text>
+    <text x="0" y="42" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="600" font-size="7.5" fill="#64748B" letter-spacing="0.2">Electrical Contractors Association of NZ</text>
+  </g>
+</svg>
